@@ -1,5 +1,4 @@
-
-.- ¿Qué comando utilizaste en el paso 11? ¿Por qué?
+- ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 
    git reset --hard a60be09
 
